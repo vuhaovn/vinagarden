@@ -5,4 +5,4 @@
 
 # importdatabase<br />
 1 setup mongodb where [Install MongoDB](https://docs.mongodb.com/manual/installation/)<br />
-2 command line :  mongorestore -d <databasename> <folder_database><br />
+2 command line :  mongorestore -d <database_name> <folder_database><br />
